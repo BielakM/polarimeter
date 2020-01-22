@@ -1,6 +1,6 @@
 # Accurate polarimeter based on twisted nematic liquid crystal displays
 This repository provides supplementary material to the following paper by Martin Bielak, Robert Stárek, Vojtěch Krčmarský, Michal Mičuda, and Miroslav Ježek:
-**Accurate polarization preparation and measurement using a liquid crystal display** ([preprint](URL): arXiv xxxx.xxxxx [quant-ph])
+**Accurate polarization preparation and measurement using a liquid crystal display** (preprint: [arXiv:2001.07120[quant-ph]](https://arxiv.org/abs/2001.07120))
 
 # TNLC devevice
 Our polarimeter (TNLC devevice) is composed of twisted nematic liquid crystal cells and control electronics.
