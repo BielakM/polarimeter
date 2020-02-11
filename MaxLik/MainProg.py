@@ -14,7 +14,6 @@ states = [H, V, D, A, R, L]
 #projectors Pi_i
 projectors = []
 for state in states:
-	projH = np.outer(H, H)
 	projectors.append(np.outer(state,state.conj()))
 
 #Measured output from DET (ADC [V])
