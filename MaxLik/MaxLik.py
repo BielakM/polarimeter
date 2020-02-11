@@ -48,7 +48,7 @@ def Maxlik(in_data, projectors, epsilon = 1e-10):
 
 		# R
 		R_parts = []
-		for i in range(0,6):
+		for i in range(0,len(projectors)):
 			part =  projectors[i] * fi[i] / probabilities[i]
 			R_parts.append(part)
 		R = sum(R_parts)
