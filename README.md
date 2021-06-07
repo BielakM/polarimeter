@@ -10,4 +10,4 @@ We use cells from the LUMEX LCD-S101D14TR display. The protective and polarizing
 Eagle schematic for printed circuit board of the TNLC device including a driver is available in [TNLC dev. PCB](https://github.com/BielakM/polarimeter_DEMO/blob/master/TNLC%20dev.%20PCB).
 ## Polarization analysis simulation
 Maximum likelihood reconstruction example is available in [MaxLik](https://github.com/BielakM/polarimeter/tree/master/MaxLik).
-In the file [Polarization_analysis_simulation](https://github.com/BielakM/polarimeter/tree/master/Polarization_analysis_simulation)we show an example of reconstruction using waveplates and TNLC device including the TNLC device model and propagation through the system.
+In the file [Polarization_analysis_simulation](https://github.com/BielakM/polarimeter/tree/master/Polarization_analysis_simulation) we show an example of reconstruction using waveplates and TNLC device including the TNLC device model and propagation through the system.
