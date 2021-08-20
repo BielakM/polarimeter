@@ -2,7 +2,7 @@
 This repository provides supplementary material to the following paper by Martin Bielak, Robert Stárek, Vojtěch Krčmarský, Michal Mičuda, and Miroslav Ježek:
 **Accurate polarization preparation and measurement using twisted nematic liquid crystal displays** (preprint: [arXiv:2001.07120[quant-ph]](https://arxiv.org/abs/2001.07120))
 
-## Twisted nematic liquid crystal (TNLC) device
+## Twisted nematic liquid crystal device (TNLCd)
 Our polarimeter (TNLC device) is composed of twisted nematic liquid crystal cells and control electronics.
 ## TNLC cells
 We use cells extracted from the LUMEX LCD-S101D14TR display. The protective and polarizing layers must be removed from the displays. The LCD datasheet is available in [LUMEX LCD-S101D14TR datasheet](https://github.com/BielakM/polarimeter/tree/master/TNLC%20device%20assembly/LUMEX%20LCD-S101D14TR%20datasheet).
