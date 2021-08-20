@@ -7,7 +7,7 @@ Our polarimeter (TNLC device) is composed of twisted nematic liquid crystal cell
 ## TNLC cells
 We use cells extracted from the LUMEX LCD-S101D14TR display. The protective and polarizing layers must be removed from the displays. The LCD datasheet is available in [LUMEX LCD-S101D14TR datasheet](https://github.com/BielakM/polarimeter/tree/master/TNLCd%20assembly/LUMEX%20LCD-S101D14TR%20datasheet).
 ## Printed circuit board and electronic driver
-Eagle schematic for printed circuit board of the TNLCd including a driver is available in [TNLC dev. PCB](https://github.com/BielakM/polarimeter/tree/master/TNLCd%20assembly/TNLCd%20PCB).
+Eagle schematic for printed circuit board of the TNLCd including a driver is available in [TNLCd assembly](https://github.com/BielakM/polarimeter/tree/master/TNLCd%20assembly).
 ## Polarization analysis
 Maximum likelihood reconstruction example using TNLCd is available in [TNLCd_tomography.ipynb](https://github.com/BielakM/polarimeter/blob/master/MaxLik%20polarization%20tomography/TNLCd_tomography.ipynb).
 In the folder [Polarization_analysis_simulation](https://github.com/BielakM/polarimeter/tree/master/MaxLik%20polarization%20tomography) we show an examples of reconstruction using waveplates and the TNLCd, including the TNLCd model.
