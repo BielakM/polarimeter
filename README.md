@@ -1,6 +1,6 @@
 # Accurate polarimeter based on twisted nematic liquid crystals
 This repository provides supplementary material to the following paper by Martin Bielak, Robert Stárek, Vojtěch Krčmarský, Michal Mičuda, and Miroslav Ježek:
-**Accurate polarization preparation and measurement using twisted nematic liquid crystal displays** (preprint: [arXiv:2001.07120[quant-ph]](https://arxiv.org/abs/2001.07120))
+**Accurate polarization preparation and measurement using twisted nematic liquid crystal displays** (paper: [Opt. Express 29, 33037 (2021)](https://doi.org/10.1364/OE.388675), preprint: [arXiv:2001.07120[quant-ph]](https://arxiv.org/abs/2001.07120))
 
 ## Twisted nematic liquid crystal device (TNLCd)
 Our polarimeter (TNLC device) is composed of twisted nematic liquid crystal cells and control electronics.
